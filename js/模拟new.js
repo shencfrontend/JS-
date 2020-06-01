@@ -1,7 +1,7 @@
 /**
- * @method myNew
+ * @method myNew 实现JavaScript的new操作符
  * @author jack shen
- * @return {Object} 通过构造函数生成的实例对象
+ * @return {object} 通过构造函数生成的实例对象
  */
 function myNew() {
   //创建了一个全新的对象
